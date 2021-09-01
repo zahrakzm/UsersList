@@ -1,0 +1,17 @@
+* {
+  background-color: gainsboro;
+  padding: 10px;
+  font-family: Iraniansanse;
+}
+@font-face{
+    font-family:IranianSans;
+    src: url("../fonts/IranianSans.ttf");
+}
+table {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+table td {
+  border: 1px solid #fff;
+}
